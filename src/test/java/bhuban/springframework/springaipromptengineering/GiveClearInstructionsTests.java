@@ -1,4 +1,4 @@
-package guru.springframework.springaipromptengineering;
+package bhuban.springframework.springaipromptengineering;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.ai.chat.prompt.PromptTemplate;
@@ -6,9 +6,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 import java.util.Map;
 
-/**
- * Created by jt, Spring Framework Guru.
- */
 @SpringBootTest
 public class GiveClearInstructionsTests extends BaseTestClass {
 

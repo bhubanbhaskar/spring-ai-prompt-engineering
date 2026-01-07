@@ -8,7 +8,7 @@
         <version>3.5.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>guru.springframework</groupId>
+    <groupId>bhuban.springframework</groupId>
     <artifactId>spring-ai-prompt-engineering</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-ai-prompt-engineering</name>

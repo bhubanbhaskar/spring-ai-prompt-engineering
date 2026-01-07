@@ -1,4 +1,4 @@
-package guru.springframework.springaipromptengineering;
+package bhuban.springframework.springaipromptengineering;
 
 import org.junit.jupiter.api.Test;
 
@@ -10,9 +10,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 import java.util.List;
 
-/**
- * Created by jt, Spring Framework Guru.
- */
+
 @SpringBootTest
 public class UsingSystemMessagesTests extends BaseTestClass {
 

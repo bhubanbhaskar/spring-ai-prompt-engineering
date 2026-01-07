@@ -1,4 +1,4 @@
-package guru.springframework.springaipromptengineering;
+package bhuban.springframework.springaipromptengineering;
 
 import org.junit.jupiter.api.Test;
 
@@ -7,9 +7,7 @@ import org.springframework.ai.chat.prompt.PromptTemplate;
 
 
 
-/**
- * Created by jt, Spring Framework Guru.
- */
+
 public class ChainOfThoughtTests extends BaseTestClass {
 
     /*

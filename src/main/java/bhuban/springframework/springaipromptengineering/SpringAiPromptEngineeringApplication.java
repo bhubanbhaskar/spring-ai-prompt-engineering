@@ -1,4 +1,4 @@
-package guru.springframework.springaipromptengineering;
+package bhuban.springframework.springaipromptengineering;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
